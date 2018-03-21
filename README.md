@@ -15,3 +15,20 @@
 ### parcellite - http://parcellite.sourceforge.net/
 
 
+TODO
+-ea
+-server
+-Xms1g
+-Xmx1g
+-XX:+UseG1GC
+-XX:-UseParNewGC
+-XX:-UseConcMarkSweepGC
+-XX:+HeapDumpOnOutOfMemoryError
+-XX:+OmitStackTraceInFastThrow
+-XX:ReservedCodeCacheSize=240m
+-XX:SoftRefLRUPolicyMSPerMB=50
+-Djava.net.preferIPv4Stack=true
+-Dawt.useSystemAAFontSettings=lcd
+-Dsun.io.useCanonCaches=false
+-Dsun.java2d.renderer=sun.java2d.marlin.MarlinRenderingEngine
+
