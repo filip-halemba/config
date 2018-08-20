@@ -14,3 +14,7 @@
 ### google drive - http://www.omgubuntu.co.uk/2016/08/use-google-drive-ubuntu-16-04-linux-desktops
 ### parcellite - http://parcellite.sourceforge.net/
 
+TODO:
+- i3: https://i3wm.org/
+- do tego na pewno i3status (może być w pakiecie)
+- lock do ekranu, polecam ten: https://github.com/guimeira/i3lock-fancy-multimonitor
