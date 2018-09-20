@@ -19,3 +19,4 @@ TODO:
 - do tego na pewno i3status (może być w pakiecie)
 - lock do ekranu, polecam ten: https://github.com/guimeira/i3lock-fancy-multimonitor
 - https://wiki.archlinux.org/index.php/i3
+- https://sw.kovidgoyal.net/kitty/
